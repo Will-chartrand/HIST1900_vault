@@ -1,0 +1,20 @@
+{
+  "defaultViewMode": "source",
+  "promptDelete": false,
+  "spellcheck": true,
+  "showFrontmatter": true,
+  "showLineNumber": true,
+  "vimMode": true,
+  "trashOption": "local",
+  "newFileLocation": "current",
+  "showUnsupportedFiles": true,
+  "attachmentFolderPath": "./",
+  "foldHeading": true,
+  "lineWrap": true,
+  "readableLineLength": false,
+  "strictLineBreaks": false,
+  "alwaysUpdateLinks": true,
+  "useMarkdownLinks": false,
+  "legacyEditor": false,
+  "livePreview": true
+}
