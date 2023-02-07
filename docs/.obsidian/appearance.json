@@ -1,21 +1,5 @@
 {
-  "baseFontSize": 20,
-  "translucency": false,
-  "enabledCssSnippets": [
-    "center-images",
-    "checkbox",
-    "clutter-free-formatting",
-    "clutter-free-headings",
-    "inline-block-embeds",
-    "obsidianite-fonts",
-    "omega-hr",
-    "realistic-highlight",
-    "notation-colour-blocks",
-    "responsive-youtube"
-  ],
-  "cssTheme": "",
+  "accentColor": "",
   "theme": "obsidian",
-  "accentColor": "#ffffff",
-  "textFontFamily": "Consolas,DroidSansMono Nerd Font Mono,Comic Sans MS",
-  "monospaceFontFamily": "Consolas,Comic Sans MS"
+  "baseFontSize": 17
 }

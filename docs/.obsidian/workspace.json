@@ -1,47 +1,80 @@
 {
   "main": {
-    "id": "48d0ad9cc3b6aa95",
+    "id": "920a73d6a1d7ef9b",
     "type": "split",
     "children": [
       {
-        "id": "6722aa028cfaf5c4",
+        "id": "6705240b3e9012bd",
         "type": "tabs",
         "children": [
           {
-            "id": "1bd8796f1a73a7ee",
+            "id": "15eef63863b75df5",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "dbd11250c06a39e5",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "1b3596744aa6e306",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "website/Sources/@bushvannevarWeMayThink1945.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "28ffdc9612b8e37f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "website/Will Chartrand's Personal Memex.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "fb5899b3ae1fd298",
+    "id": "dbcd71f8807606fe",
     "type": "split",
     "children": [
       {
-        "id": "03c0e849e6520f42",
+        "id": "e6ec448ddffebf26",
         "type": "tabs",
         "children": [
           {
-            "id": "95ba396688052e5d",
+            "id": "251187ac598c8762",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              },
-              "pinned": true
+              }
             }
           },
           {
-            "id": "b8159ecd0de80d2a",
+            "id": "20c7424c858f15e9",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -54,27 +87,36 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "d22a7b62e5ce9c3e",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 284
+    "width": 300
   },
   "right": {
-    "id": "3901af9079781393",
+    "id": "8ce0655ba33b3b34",
     "type": "split",
     "children": [
       {
-        "id": "bc3a6e0a1c3513c8",
+        "id": "995b2e9fa9afcc79",
         "type": "tabs",
         "children": [
           {
-            "id": "1d97627be622ad68",
+            "id": "732653f7364a4e24",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "website/Will Chartrand's Personal Memex.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,26 +128,19 @@
             }
           },
           {
-            "id": "54a48b2eb5335061",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "09f64823cce0de44",
+            "id": "c755ef86e9bfb8f9",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "website/Will Chartrand's Personal Memex.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
           {
-            "id": "8d6c07cbf671bb56",
+            "id": "d06735a20e4256df",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -116,31 +151,24 @@
             }
           },
           {
-            "id": "2850759aaf11c73c",
+            "id": "b398a849beacd076",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "outline",
+              "state": {
+                "file": "website/Will Chartrand's Personal Memex.md"
+              }
             }
           },
           {
-            "id": "87a62a81dc6b26f2",
+            "id": "f1fcfa69a17d44e0",
             "type": "leaf",
             "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          },
-          {
-            "id": "b01224ea7da7cae1",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
+              "type": "Strange New Worlds",
               "state": {}
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "horizontal",
@@ -149,27 +177,27 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "templater-obsidian:Templater": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-journey-plugin:Find Journey": false,
+      "omnisearch:Omnisearch": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "markdown-importer:Open format converter": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "1bd8796f1a73a7ee",
+  "active": "28ffdc9612b8e37f",
   "lastOpenFiles": [
-    "Academia/Year2/Term2/Hist1900/3 - Hands on day.md",
-    "Academia/Year2/Term2/Hist1900/Medium.md",
-    "Home.md",
-    "Academia/Year2/Term2/Hist1900/2 - Mediums and Messages.md",
-    "Academia/Year2/Term2/Comp2404/2 - Programming Conventions.md",
-    "Academia/Year2/Term2/Comp2404/Untitled 1.md",
-    "Academia/Year2/Term1/Comp2804/Lecture 18.md",
-    "Academia/Year2/Term1/Comp2804/Lecture 4.md",
-    "Academia/Year2/Term1/Comp2804/Lecture 1.md",
-    "Academia/Year2/Term2/Comp2404/Lecture 2 - Basic Language Features.md"
+    "website/test.md",
+    "website/Sources/@bushvannevarWeMayThink1945.md",
+    "website/Untitled.canvas",
+    "1-inbox/@bush132407932Pdf1945.md",
+    "website/Will Chartrand's Personal Memex.md",
+    "website/index.md",
+    "_Start Here.md",
+    "Bush.md",
+    "Bush2.md",
+    "Cipher.md"
   ]
 }
